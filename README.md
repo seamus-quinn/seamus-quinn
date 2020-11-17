@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning how to scrape
-💬 Ask me about hummus
+- 🌱 I’m currently learning how to scrape
+- 💬 Ask me about hummus
 
 <!--
 **seamus-quinn/seamus-quinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
